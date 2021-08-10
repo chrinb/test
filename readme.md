@@ -1,8 +1,8 @@
 # Hi, hello
 
-# hello again
+hello again
 
-# another change has been made!
+another change has been made!
 
-# hmm
-# hmm
+hmm
+hmm
